@@ -1,2 +1,2 @@
 # MovieReview
-This is a group project of the Software Engineering course - lsu
+This is a group project of the Software Engineering course - ksu
